@@ -1,5 +1,5 @@
 # hide virtual environtment folder
-venv_S2_digital_image_processing/
+venv/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
